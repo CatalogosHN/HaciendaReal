@@ -5,6 +5,47 @@
 // === LISTA DE PRODUCTOS ===
 let products = [];
 
+function fixMojibake(value) {
+  let current = String(value ?? "");
+  for (let i = 0; i < 4; i += 1) {
+    if (!/[ÃÂâð]/.test(current)) break;
+    try {
+      const next = decodeURIComponent(escape(current));
+      if (!next || next === current) break;
+      current = next;
+    } catch {
+      break;
+    }
+  }
+  return current;
+}
+
+function normalizeLoadedProduct(product = {}) {
+  const categoriesRaw = Array.isArray(product.categories)
+    ? product.categories
+    : (typeof product.categories === "string"
+        ? product.categories.split(",")
+        : (typeof product.category === "string" ? [product.category] : []));
+
+  const descriptionRaw = Array.isArray(product.description)
+    ? product.description
+    : [product.description].filter(Boolean);
+
+  const imagesRaw = Array.isArray(product.images)
+    ? product.images
+    : [product.images].filter(Boolean);
+
+  return {
+    ...product,
+    name: fixMojibake(product.name || ""),
+    categories: categoriesRaw.map(v => fixMojibake(v).trim()).filter(Boolean),
+    description: descriptionRaw.map(v => fixMojibake(v).trim()).filter(Boolean),
+    images: imagesRaw.map(v => String(v || "").trim()).filter(Boolean),
+    status: fixMojibake(product.status || "")
+  };
+}
+
+
 // === CONFIGURACIÓN ===
 // === EMAILJS CONFIG ===
 // === EMAILJS CONFIG ===
@@ -95,7 +136,7 @@ async function loadProducts() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
 
     const data = await res.json();
-    products = Array.isArray(data) ? data : [];
+    products = Array.isArray(data) ? data.map(normalizeLoadedProduct) : [];
   } catch (err) {
     console.error("❌ No se pudo cargar products.json", err);
     products = [];
