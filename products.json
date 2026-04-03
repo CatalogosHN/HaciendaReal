@@ -1,22 +1,5 @@
 [
   {
-    "name": "Power Bank 20,000 mAh Carga Rápidaaa",
-    "price": 650,
-    "categories": [
-      "Tecnologia y Juegos",
-      "Accesorios Varios"
-    ],
-    "description": [
-      "⚡ Batería portátil de alta capacidad para cargar tu celular varias veces durante el día.",
-      "🔋 Incluye puertos de carga rápida y diseño compacto para llevarla en mochila, bolso o carro.",
-      "📱 Ideal para viajes, trabajo o emergencias cuando no tienes un enchufe cerca."
-    ],
-    "status": "disponible",
-    "images": [
-      "images/admin/1775194450202-power-bank-20-000-mah-carga-rapidaaa-1.jpg"
-    ]
-  },
-  {
     "name": "Chaleco Reflectivo Naranja",
     "price": 100,
     "categories": [
