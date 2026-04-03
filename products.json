@@ -1,15 +1,32 @@
 [
   {
-    "name": "Power Bank 20,000 mAh Carga Rápidaaa",
+    "name": "Chaleco Reflectivo Naranja",
+    "price": 100,
+    "categories": [
+      "Tecnologia y Juegos",
+      "Accesorios Varios"
+    ],
+    "description": [
+      "⭐ Es reflectivo y permitido por la ley.",
+      "⭐ Son ajustables para cualquier tamaÃ±o M, L, XL, XXL, 2XXL.",
+      "⭐ Color permitido por la Ley de transito en Honduras."
+    ],
+    "status": "disponible",
+    "images": [
+      "images/admin/1775194820174-chaleco-reflectivo-naranja-1.jpg"
+    ]
+  },
+  {
+    "name": "Power Bank 20,000 mAh Carga RÃ¡pidaaa",
     "price": 650,
     "categories": [
       "Tecnologia y Juegos",
       "Accesorios Varios"
     ],
     "description": [
-      "⚡ Batería portátil de alta capacidad para cargar tu celular varias veces durante el día.",
-      "🔋 Incluye puertos de carga rápida y diseño compacto para llevarla en mochila, bolso o carro.",
-      "📱 Ideal para viajes, trabajo o emergencias cuando no tienes un enchufe cerca."
+      "â¡ BaterÃ­a portÃ¡til de alta capacidad para cargar tu celular varias veces durante el dÃ­a.",
+      "ð Incluye puertos de carga rÃ¡pida y diseÃ±o compacto para llevarla en mochila, bolso o carro.",
+      "ð± Ideal para viajes, trabajo o emergencias cuando no tienes un enchufe cerca."
     ],
     "status": "disponible",
     "images": [
@@ -24,9 +41,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ¯Â¸ÂÃ°ÂÂªÂ¢ Asegura tu moto, carga o casco en segundos. Resistente, elÃÂ¡stica y confiable. ÃÂ¡La tranquilidad que todo motero necesita! Ã°ÂÂÂªÃ°ÂÂÂ",
-      "Ã°ÂÂÂÃ°ÂÂÂ Ideal para viajes, mandados o parqueos rÃÂ¡pidos. No se afloja, no falla y aguanta lo que le pongas. ÃÂ¡Una vez la usas, no sales sin ella! Ã°ÂÂÂ¥Ã°ÂÂÂ",
-      "Ã°ÂÂÂµÃ°ÂÂ§Â² FÃÂ¡cil de usar, compacta y ultra resistente. Perfecta para el dÃÂ­a a dÃÂ­a o viajes largos. Compra inteligente, compra seguro Ã°ÂÂÂÃ°ÂÂÂ¥"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂªÃÂ¢ Asegura tu moto, carga o casco en segundos. Resistente, elÃÂÃÂ¡stica y confiable. ÃÂÃÂ¡La tranquilidad que todo motero necesita! ÃÂ°ÃÂÃÂÃÂªÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ Ideal para viajes, mandados o parqueos rÃÂÃÂ¡pidos. No se afloja, no falla y aguanta lo que le pongas. ÃÂÃÂ¡Una vez la usas, no sales sin ella! ÃÂ°ÃÂÃÂÃÂ¥ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂµÃÂ°ÃÂÃÂ§ÃÂ² FÃÂÃÂ¡cil de usar, compacta y ultra resistente. Perfecta para el dÃÂÃÂ­a a dÃÂÃÂ­a o viajes largos. Compra inteligente, compra seguro ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥"
     ],
     "images": [
       "images/cuerdajnasd1.jpg",
@@ -41,9 +58,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ¯Â¸ÂÃ°ÂÂÂ¶Ã¯Â¸Â Bloquea viento, polvo y sol mientras manejas con total comodidad. VisiÃÂ³n clara y ajuste firme para cada recorrido. ÃÂ¡Maneja con seguridad y estilo! Ã°ÂÂÂÃ°ÂÂÂ¨",
-      "Ã°ÂÂÂ¡Ã¯Â¸ÂÃ°ÂÂÂªÃ¯Â¸Â Lentes resistentes, cÃÂ³modos y compatibles con casco. Ideales para ciudad o carretera. Una vez las pruebas, no sales sin ellas Ã°ÂÂÂ¥Ã°ÂÂÂ",
-      "Ã°ÂÂÂ¶Ã¯Â¸ÂÃ°ÂÂÂÃ¯Â¸Â DiseÃÂ±o deportivo, protecciÃÂ³n real y look profesional. El accesorio que todo motero NECESITA Ã°ÂÂÂÃ°ÂÂÂ¥"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂ¶ÃÂ¯ÃÂ¸ÃÂ Bloquea viento, polvo y sol mientras manejas con total comodidad. VisiÃÂÃÂ³n clara y ajuste firme para cada recorrido. ÃÂÃÂ¡Maneja con seguridad y estilo! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¨",
+      "ÃÂ°ÃÂÃÂÃÂ¡ÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂªÃÂ¯ÃÂ¸ÃÂ Lentes resistentes, cÃÂÃÂ³modos y compatibles con casco. Ideales para ciudad o carretera. Una vez las pruebas, no sales sin ellas ÃÂ°ÃÂÃÂÃÂ¥ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂ¶ÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂ DiseÃÂÃÂ±o deportivo, protecciÃÂÃÂ³n real y look profesional. El accesorio que todo motero NECESITA ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥"
     ],
     "images": [
       "images/gafasmotoxnusd1.jpg"
@@ -57,9 +74,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ¯Â¸ÂÃ°ÂÂÂ¡Ã¯Â¸Â ProtecciÃÂ³n total contra polvo, viento y sol. DiseÃÂ±o agresivo, visiÃÂ³n clara y ajuste firme. ÃÂ¡Maneja con presencia y seguridad! Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂªÃ¯Â¸ÂÃ°ÂÂÂ¶Ã¯Â¸Â Lentes resistentes + mÃÂ¡scara respirable para rutas largas o uso diario. Comodidad y estilo en cada kilÃÂ³metro. ÃÂ¡Imposible no quererla! Ã°ÂÂÂ¥Ã°ÂÂÂ",
-      "Ã°ÂÂÂ¤Ã°ÂÂÂÃ¯Â¸Â Look tÃÂ¡ctico, ajuste perfecto y protecciÃÂ³n completa. Eleva tu casco y tu experiencia al manejar Ã°ÂÂÂÃ°ÂÂÂ¥"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂ¡ÃÂ¯ÃÂ¸ÃÂ ProtecciÃÂÃÂ³n total contra polvo, viento y sol. DiseÃÂÃÂ±o agresivo, visiÃÂÃÂ³n clara y ajuste firme. ÃÂÃÂ¡Maneja con presencia y seguridad! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂªÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂ¶ÃÂ¯ÃÂ¸ÃÂ Lentes resistentes + mÃÂÃÂ¡scara respirable para rutas largas o uso diario. Comodidad y estilo en cada kilÃÂÃÂ³metro. ÃÂÃÂ¡Imposible no quererla! ÃÂ°ÃÂÃÂÃÂ¥ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂ¤ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂ Look tÃÂÃÂ¡ctico, ajuste perfecto y protecciÃÂÃÂ³n completa. Eleva tu casco y tu experiencia al manejar ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥"
     ],
     "images": [
       "images/mascaracijsd1.jpg",
@@ -69,16 +86,16 @@
     ]
   },
   {
-    "name": "Mascara Calavera para Casco Moto OFERTAÃ¢ÂÂ¼Ã¯Â¸ÂENVIOS A TODO HONDURAS",
+    "name": "Mascara Calavera para Casco Moto OFERTAÃÂ¢ÃÂÃÂ¼ÃÂ¯ÃÂ¸ÃÂENVIOS A TODO HONDURAS",
     "price": 190,
     "categories": [
       "Tecnologia y Juegos",
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂÃ¯Â¸Â Impone respeto en la carretera. DiseÃÂ±o brutal tipo calavera con lentes espejo que protegen del sol, viento y polvo. ÃÂ¡No pasas desapercibido! Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂ¶Ã¯Â¸ÂÃ°ÂÂÂ Look agresivo + protecciÃÂ³n real. Ideal para riders que quieren seguridad y presencia ÃÂºnica. PÃÂ³ntela y siente el poder en cada kilÃÂ³metro Ã¢ÂÂ¡Ã°ÂÂÂÃ¯Â¸Â",
-      "Ã°ÂÂÂ¤Ã°ÂÂÂ¥ Ajuste cÃÂ³modo, lentes llamativos y diseÃÂ±o de impacto. Aprovecha la OFERTA antes que se agote Ã°ÂÂÂ±Ã°ÂÂÂ"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂ Impone respeto en la carretera. DiseÃÂÃÂ±o brutal tipo calavera con lentes espejo que protegen del sol, viento y polvo. ÃÂÃÂ¡No pasas desapercibido! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂ¶ÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂ Look agresivo + protecciÃÂÃÂ³n real. Ideal para riders que quieren seguridad y presencia ÃÂÃÂºnica. PÃÂÃÂ³ntela y siente el poder en cada kilÃÂÃÂ³metro ÃÂ¢ÃÂÃÂ¡ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂ¤ÃÂ°ÃÂÃÂÃÂ¥ Ajuste cÃÂÃÂ³modo, lentes llamativos y diseÃÂÃÂ±o de impacto. Aprovecha la OFERTA antes que se agote ÃÂ°ÃÂÃÂÃÂ±ÃÂ°ÃÂÃÂÃÂ"
     ],
     "images": [
       "images/calavvvenr1.jpg",
@@ -94,9 +111,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ SÃÂºper tiernos, coloridos y llenos de personalidad. Perfectos para llaves, mochilas o regalar. ÃÂ¡Cada uno es imposible de no amar! Ã°ÂÂ¥Â°",
-      "Ã°ÂÂÂÃ°ÂÂÂ Diferentes poses y accesorios que enamoran a primera vista. Ideal para fans de Stitch grandes y pequeÃÂ±os. ÃÂ¡QuerrÃÂ¡s mÃÂ¡s de uno! Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂÃ¢ÂÂ¨ Bonitos, resistentes y sÃÂºper llamativos. Regala ternura o consiÃÂ©ntete con estos llaveros ÃÂºnicos de Stitch Ã°ÂÂÂÃ°ÂÂÂ"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ SÃÂÃÂºper tiernos, coloridos y llenos de personalidad. Perfectos para llaves, mochilas o regalar. ÃÂÃÂ¡Cada uno es imposible de no amar! ÃÂ°ÃÂÃÂ¥ÃÂ°",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ Diferentes poses y accesorios que enamoran a primera vista. Ideal para fans de Stitch grandes y pequeÃÂÃÂ±os. ÃÂÃÂ¡QuerrÃÂÃÂ¡s mÃÂÃÂ¡s de uno! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¨ Bonitos, resistentes y sÃÂÃÂºper llamativos. Regala ternura o consiÃÂÃÂ©ntete con estos llaveros ÃÂÃÂºnicos de Stitch ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ"
     ],
     "images": [
       "images/stititit1.jpg",
@@ -111,9 +128,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ DiseÃÂ±os tiernos y coloridos que roban sonrisas. Perfectos para llaves, mochilas o regalar. ÃÂ¡Imposible elegir solo uno! Ã°ÂÂ¥Â°",
-      "Ã°ÂÂÂ¼Ã°ÂÂÂ PequeÃÂ±os, resistentes y llenos de encanto. Ideales para niÃÂ±os, jÃÂ³venes y amantes de lo cute. ÃÂ¡Te enamoran al instante! Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂÃ¢ÂÂ¨ Variedad de colores y estilos que combinan con todo. Consiente o sorprende con estos lindos ositos panda Ã°ÂÂÂÃ°ÂÂÂ¼"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ DiseÃÂÃÂ±os tiernos y coloridos que roban sonrisas. Perfectos para llaves, mochilas o regalar. ÃÂÃÂ¡Imposible elegir solo uno! ÃÂ°ÃÂÃÂ¥ÃÂ°",
+      "ÃÂ°ÃÂÃÂÃÂ¼ÃÂ°ÃÂÃÂÃÂ PequeÃÂÃÂ±os, resistentes y llenos de encanto. Ideales para niÃÂÃÂ±os, jÃÂÃÂ³venes y amantes de lo cute. ÃÂÃÂ¡Te enamoran al instante! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¨ Variedad de colores y estilos que combinan con todo. Consiente o sorprende con estos lindos ositos panda ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¼"
     ],
     "images": [
       "images/panddd1.jpg",
@@ -128,9 +145,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ Personajes que marcaron tu infancia ahora contigo todos los dÃÂ­as. SÃÂºper coloridos, tiernos y llenos de nostalgia. ÃÂ¡Te enamoran al instante! Ã°ÂÂÂ",
-      "Ã°ÂÂ§Â¸Ã°ÂÂÂ Ideales para llaves, mochilas o regalar. Forky, Woody y mÃÂ¡s personajes que sacan sonrisas a grandes y pequeÃÂ±os Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂÃ¢ÂÂ¨ Resistentes, llamativos y ÃÂºnicos. LlÃÂ©vate tu personaje favorito antes que se agoten Ã°ÂÂÂ±Ã°ÂÂÂ«"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ Personajes que marcaron tu infancia ahora contigo todos los dÃÂÃÂ­as. SÃÂÃÂºper coloridos, tiernos y llenos de nostalgia. ÃÂÃÂ¡Te enamoran al instante! ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂ§ÃÂ¸ÃÂ°ÃÂÃÂÃÂ Ideales para llaves, mochilas o regalar. Forky, Woody y mÃÂÃÂ¡s personajes que sacan sonrisas a grandes y pequeÃÂÃÂ±os ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¨ Resistentes, llamativos y ÃÂÃÂºnicos. LlÃÂÃÂ©vate tu personaje favorito antes que se agoten ÃÂ°ÃÂÃÂÃÂ±ÃÂ°ÃÂÃÂÃÂ«"
     ],
     "images": [
       "images/bydusdy1.jpg",
@@ -145,9 +162,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ¥ Lleva a tus hÃÂ©roes favoritos contigo todos los dÃÂ­as. SÃÂºper llamativos, resistentes y llenos de actitud. ÃÂ¡Imposible no quererlos! Ã°ÂÂÂ",
-      "Ã°ÂÂ¦Â¸Ã¢ÂÂÃ¢ÂÂÃ¯Â¸ÂÃ°ÂÂÂª Iron Man, Hulk, CapitÃÂ¡n AmÃÂ©rica y mÃÂ¡s en diseÃÂ±os coloridos que destacan en llaves, mochilas o bolsos. ÃÂ¡Perfectos para fans de Marvel! Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂ¥Ã°ÂÂÂ Detalle ÃÂºnico, duradero y con estilo hÃÂ©roe. Elige tu favorito o llÃÂ©valos todos antes que se agoten Ã°ÂÂÂ±Ã¢ÂÂ¨"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥ Lleva a tus hÃÂÃÂ©roes favoritos contigo todos los dÃÂÃÂ­as. SÃÂÃÂºper llamativos, resistentes y llenos de actitud. ÃÂÃÂ¡Imposible no quererlos! ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂ¦ÃÂ¸ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂª Iron Man, Hulk, CapitÃÂÃÂ¡n AmÃÂÃÂ©rica y mÃÂÃÂ¡s en diseÃÂÃÂ±os coloridos que destacan en llaves, mochilas o bolsos. ÃÂÃÂ¡Perfectos para fans de Marvel! ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂ¥ÃÂ°ÃÂÃÂÃÂ Detalle ÃÂÃÂºnico, duradero y con estilo hÃÂÃÂ©roe. Elige tu favorito o llÃÂÃÂ©valos todos antes que se agoten ÃÂ°ÃÂÃÂÃÂ±ÃÂ¢ÃÂÃÂ¨"
     ],
     "images": [
       "images/ironsd1.jpg",
@@ -162,9 +179,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ AlegrÃÂ­a, Tristeza, Furia y mÃÂ¡s personajes en diseÃÂ±os sÃÂºper coloridos y tiernos. Perfectos para llaves, mochilas o regalar. ÃÂ¡Te sacan una sonrisa al instante! Ã°ÂÂÂ",
-      "Ã°ÂÂÂÃ°ÂÂÂ Ligeros, resistentes y llenos de personalidad. Ideales para niÃÂ±os, jÃÂ³venes y fans de Intensamente. ÃÂ¡QuerrÃÂ¡s coleccionarlos todos! Ã°ÂÂÂ¥Ã°ÂÂ¥Â°",
-      "Ã¢ÂÂ¨Ã°ÂÂÂ Regala emociÃÂ³n, color y diversiÃÂ³n en un solo accesorio. Elige tu personaje favorito antes que se agoten Ã°ÂÂÂ±Ã°ÂÂÂ«"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ AlegrÃÂÃÂ­a, Tristeza, Furia y mÃÂÃÂ¡s personajes en diseÃÂÃÂ±os sÃÂÃÂºper coloridos y tiernos. Perfectos para llaves, mochilas o regalar. ÃÂÃÂ¡Te sacan una sonrisa al instante! ÃÂ°ÃÂÃÂÃÂ",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ Ligeros, resistentes y llenos de personalidad. Ideales para niÃÂÃÂ±os, jÃÂÃÂ³venes y fans de Intensamente. ÃÂÃÂ¡QuerrÃÂÃÂ¡s coleccionarlos todos! ÃÂ°ÃÂÃÂÃÂ¥ÃÂ°ÃÂÃÂ¥ÃÂ°",
+      "ÃÂ¢ÃÂÃÂ¨ÃÂ°ÃÂÃÂÃÂ Regala emociÃÂÃÂ³n, color y diversiÃÂÃÂ³n en un solo accesorio. Elige tu personaje favorito antes que se agoten ÃÂ°ÃÂÃÂÃÂ±ÃÂ°ÃÂÃÂÃÂ«"
     ],
     "images": [
       "images/intensasknwre1.jpg",
@@ -172,16 +189,16 @@
     ]
   },
   {
-    "name": "Llaveros Labubu VARIEDADÃ¢ÂÂ¼Ã¯Â¸ÂENVIOS A TODO HONDURAS",
+    "name": "Llaveros Labubu VARIEDADÃÂ¢ÃÂÃÂ¼ÃÂ¯ÃÂ¸ÃÂENVIOS A TODO HONDURAS",
     "price": 90,
     "categories": [
       "Tecnologia y Juegos",
       "Celulares y Tablets"
     ],
     "description": [
-      "Ã°ÂÂÂÃ°ÂÂÂ SÃÂºper tiernos, coloridos y con un diseÃÂ±o que roba miradas. Ideales para llaves, mochilas o regalar. ÃÂ¡Cada uno es una tentaciÃÂ³n! Ã°ÂÂ¥Â°",
-      "Ã°ÂÂÂÃ°ÂÂÂ Diferentes colores y expresiones que enamoran al instante. Ligeros, resistentes y perfectos para coleccionar Ã°ÂÂÂÃ°ÂÂÂ¥",
-      "Ã°ÂÂÂÃ¢ÂÂ¨ Bonitos, originales y ÃÂºnicos. Aprovecha la VARIEDAD y elige tu favorito antes que se agoten Ã°ÂÂÂ±Ã°ÂÂÂ°"
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ SÃÂÃÂºper tiernos, coloridos y con un diseÃÂÃÂ±o que roba miradas. Ideales para llaves, mochilas o regalar. ÃÂÃÂ¡Cada uno es una tentaciÃÂÃÂ³n! ÃÂ°ÃÂÃÂ¥ÃÂ°",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ Diferentes colores y expresiones que enamoran al instante. Ligeros, resistentes y perfectos para coleccionar ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ¥",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¢ÃÂÃÂ¨ Bonitos, originales y ÃÂÃÂºnicos. Aprovecha la VARIEDAD y elige tu favorito antes que se agoten ÃÂ°ÃÂÃÂÃÂ±ÃÂ°ÃÂÃÂÃÂ°"
     ],
     "images": [
       "images/labububuasjkh1.jpg",
@@ -196,9 +213,9 @@
       "Celulares y Tablets"
     ],
     "description": [
-      "ÃÂ¡Dile adiÃÂ³s al asiento mojado! Ã°ÂÂÂ¦Ã°ÂÂÂ¥ Este forro tipo cuero ultra impermeable mantiene tu moto siempre lista, aunque caiga un diluvio.",
-      "Queda PERFECTO Ã°ÂÂÂ gracias a su ajuste elÃÂ¡stico que abraza el asiento y no se mueve ni en carreteras malas. ÃÂ¡Comodidad y estilo en uno! Ã°ÂÂÂÃ¯Â¸ÂÃ¢ÂÂ¨",
-      "Material grueso, resistente y con acabado premium Ã°ÂÂÂªÃ°ÂÂÂ¤. Protege del sol, polvo, raspones y lluviaÃ¢ÂÂ¦ ÃÂ¡tu asiento dura AÃÂOS mÃÂ¡s!"
+      "ÃÂÃÂ¡Dile adiÃÂÃÂ³s al asiento mojado! ÃÂ°ÃÂÃÂÃÂ¦ÃÂ°ÃÂÃÂÃÂ¥ Este forro tipo cuero ultra impermeable mantiene tu moto siempre lista, aunque caiga un diluvio.",
+      "Queda PERFECTO ÃÂ°ÃÂÃÂÃÂ gracias a su ajuste elÃÂÃÂ¡stico que abraza el asiento y no se mueve ni en carreteras malas. ÃÂÃÂ¡Comodidad y estilo en uno! ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ¢ÃÂÃÂ¨",
+      "Material grueso, resistente y con acabado premium ÃÂ°ÃÂÃÂÃÂªÃÂ°ÃÂÃÂÃÂ¤. Protege del sol, polvo, raspones y lluviaÃÂ¢ÃÂÃÂ¦ ÃÂÃÂ¡tu asiento dura AÃÂÃÂOS mÃÂÃÂ¡s!"
     ],
     "images": [
       "images/forrouawen1.jpg",
@@ -208,16 +225,16 @@
     ]
   },
   {
-    "name": "Pizarra Magica Para NiÃÂ±os ENVIOS TODO HONDURAS",
+    "name": "Pizarra Magica Para NiÃÂÃÂ±os ENVIOS TODO HONDURAS",
     "price": 120,
     "categories": [
       "Tecnologia y Juegos",
       "Celulares y Tablets"
     ],
     "description": [
-      "ÃÂ¡DiversiÃÂ³n sin lÃÂ­mites! Ã°ÂÂÂ¨Ã¢ÂÂ¨ Los niÃÂ±os dibujan con colores brillantes y borran con un toque. Ideal para creatividad, juegos y aprendizaje.",
-      "Pantalla LCD de 8.5Ã¢ÂÂ sÃÂºper liviana y cÃÂ³moda Ã°ÂÂ§ÂÃ°ÂÂÂ. Perfecta para llevar a la escuela, viajes o usar en casa sin gastar papel.",
-      "Incluye lÃÂ¡piz, modo bloqueo y baterÃÂ­a de larga duraciÃÂ³n Ã°ÂÂÂÃ°ÂÂÂ. Un regalo ÃÂºtil, educativo y entretenido que les encanta a todos los peques."
+      "ÃÂÃÂ¡DiversiÃÂÃÂ³n sin lÃÂÃÂ­mites! ÃÂ°ÃÂÃÂÃÂ¨ÃÂ¢ÃÂÃÂ¨ Los niÃÂÃÂ±os dibujan con colores brillantes y borran con un toque. Ideal para creatividad, juegos y aprendizaje.",
+      "Pantalla LCD de 8.5ÃÂ¢ÃÂÃÂ sÃÂÃÂºper liviana y cÃÂÃÂ³moda ÃÂ°ÃÂÃÂ§ÃÂÃÂ°ÃÂÃÂÃÂ. Perfecta para llevar a la escuela, viajes o usar en casa sin gastar papel.",
+      "Incluye lÃÂÃÂ¡piz, modo bloqueo y baterÃÂÃÂ­a de larga duraciÃÂÃÂ³n ÃÂ°ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂ. Un regalo ÃÂÃÂºtil, educativo y entretenido que les encanta a todos los peques."
     ],
     "images": [
       "images/maggggg1.jpg",
@@ -225,26 +242,26 @@
     ]
   },
   {
-    "name": "PasamontaÃÂ±as",
+    "name": "PasamontaÃÂÃÂ±as",
     "price": 120,
     "category": "Auto y Moto",
     "description": [
-      "Fabricado con tela elÃÂ¡stica y transpirable que se ajusta perfectamente al rostro sin incomodar o rayar.",
+      "Fabricado con tela elÃÂÃÂ¡stica y transpirable que se ajusta perfectamente al rostro sin incomodar o rayar.",
       "Ideal para motos, ciclismo, deportes al aire libre o trabajos donde necesites cubrirte del sol, viento o polvo.",
-      "Puede usarse como mÃÂ¡scara completa, gorro o cuello tÃÂ©rmico. Ligero, duradero y fÃÂ¡cil de lavar."
+      "Puede usarse como mÃÂÃÂ¡scara completa, gorro o cuello tÃÂÃÂ©rmico. Ligero, duradero y fÃÂÃÂ¡cil de lavar."
     ],
     "images": [
       "images/pasm1.jpg"
     ]
   },
   {
-    "name": "Pecheras para CÃÂ¡maras o Go Pro",
+    "name": "Pecheras para CÃÂÃÂ¡maras o Go Pro",
     "price": 300,
     "category": "Auto y Moto",
     "description": [
-      "Captura tus aventuras con perspectiva real desde el pecho, ideal para ciclismo, motos, senderismo, deportes extremos y mÃÂ¡s.",
-      "ArnÃÂ©s elÃÂ¡stico, ajustable y ligero, se adapta perfectamente a cualquier tamaÃÂ±o y garantiza libertad de movimiento.",
-      "Compatible con GoPro, cÃÂ¡maras deportivas, SJCam, Insta360 y similares. Incluye soporte y tornillo de montaje."
+      "Captura tus aventuras con perspectiva real desde el pecho, ideal para ciclismo, motos, senderismo, deportes extremos y mÃÂÃÂ¡s.",
+      "ArnÃÂÃÂ©s elÃÂÃÂ¡stico, ajustable y ligero, se adapta perfectamente a cualquier tamaÃÂÃÂ±o y garantiza libertad de movimiento.",
+      "Compatible con GoPro, cÃÂÃÂ¡maras deportivas, SJCam, Insta360 y similares. Incluye soporte y tornillo de montaje."
     ],
     "images": [
       "images/pech1.jpg"
@@ -258,8 +275,8 @@
       "Tecnologia y Juegos"
     ],
     "description": [
-      "Vidrio templado ultra duro que protege tu pantalla contra golpes, caÃÂ­das y rayones.",
-      "Mantiene la calidad original de la imagen y el brillo de tu consola sin afectar la sensibilidad tÃÂ¡ctil.",
+      "Vidrio templado ultra duro que protege tu pantalla contra golpes, caÃÂÃÂ­das y rayones.",
+      "Mantiene la calidad original de la imagen y el brillo de tu consola sin afectar la sensibilidad tÃÂÃÂ¡ctil.",
       "Sin burbujas, se ajusta perfectamente y es compatible con fundas y docks."
     ],
     "images": [
@@ -267,16 +284,16 @@
     ]
   },
   {
-    "name": "OFERTA Ã¢ÂÂ¼Ã¯Â¸ÂSet Destornilladores Profesional para Celulares 115",
+    "name": "OFERTA ÃÂ¢ÃÂÃÂ¼ÃÂ¯ÃÂ¸ÃÂSet Destornilladores Profesional para Celulares 115",
     "price": 250,
     "categories": [
       "Herramientas",
       "Tecnologia y Juegos"
     ],
     "description": [
-      "Incluye 115 piezas con puntas magnÃÂ©ticas y herramientas especiales para reparar celulares, consolas, laptops, relojes y mÃÂ¡s.",
-      "Mango ergonÃÂ³mico, antideslizante y extensible para trabajos precisos y cÃÂ³modos.",
-      "Viene en estuche resistente, ideal para tÃÂ©cnicos, aficionados o uso en casa."
+      "Incluye 115 piezas con puntas magnÃÂÃÂ©ticas y herramientas especiales para reparar celulares, consolas, laptops, relojes y mÃÂÃÂ¡s.",
+      "Mango ergonÃÂÃÂ³mico, antideslizante y extensible para trabajos precisos y cÃÂÃÂ³modos.",
+      "Viene en estuche resistente, ideal para tÃÂÃÂ©cnicos, aficionados o uso en casa."
     ],
     "images": [
       "images/dest1.jpg",
@@ -292,8 +309,8 @@
       "Tecnologia y Juegos"
     ],
     "description": [
-      "Protege tu cÃÂ¡mara al mÃÂ¡ximo: Funda de silicona resistente a golpes, rayones y polvo.",
-      "Vidrios templados incluidos: Pantalla y lente siempre seguros con protecciÃÂ³n anti-rayaduras y claridad total.",
+      "Protege tu cÃÂÃÂ¡mara al mÃÂÃÂ¡ximo: Funda de silicona resistente a golpes, rayones y polvo.",
+      "Vidrios templados incluidos: Pantalla y lente siempre seguros con protecciÃÂÃÂ³n anti-rayaduras y claridad total.",
       "Todo en un solo kit: Incluye tapa de lente, correa de mano, limpiadores y adhesivos antipolvo. Ideal para aventuras y uso diario"
     ],
     "images": [
@@ -309,9 +326,9 @@
       "Tecnologia y Juegos"
     ],
     "description": [
-      "Resiste hasta 45 metros de profundidad, ideal para buceo, surf, nataciÃÂ³n o lluvia intensa.",
-      "Evita daÃÂ±os por agua, polvo o golpes sin afectar la calidad de video ni el audio.",
-      "Ajuste perfecto para GoPro Hero 8 con cierre hermÃÂ©tico y lente ultra transparente para capturas nÃÂ­tidas."
+      "Resiste hasta 45 metros de profundidad, ideal para buceo, surf, nataciÃÂÃÂ³n o lluvia intensa.",
+      "Evita daÃÂÃÂ±os por agua, polvo o golpes sin afectar la calidad de video ni el audio.",
+      "Ajuste perfecto para GoPro Hero 8 con cierre hermÃÂÃÂ©tico y lente ultra transparente para capturas nÃÂÃÂ­tidas."
     ],
     "images": [
       "images/cob1.jpg"
@@ -326,8 +343,8 @@
     ],
     "description": [
       "Resistente hasta 45 m de profundidad, perfecta para buceo, surf, snorkel o lluvia intensa.",
-      "Evita daÃÂ±os por agua, polvo y golpes sin afectar la claridad de imagen ni el rendimiento de tu cÃÂ¡mara.",
-      "Ajuste perfecto para modelos GoPro 9, 10, 11 y 12. Fabricada en material resistente con cierre hermÃÂ©tico y lente transparente HD."
+      "Evita daÃÂÃÂ±os por agua, polvo y golpes sin afectar la claridad de imagen ni el rendimiento de tu cÃÂÃÂ¡mara.",
+      "Ajuste perfecto para modelos GoPro 9, 10, 11 y 12. Fabricada en material resistente con cierre hermÃÂÃÂ©tico y lente transparente HD."
     ],
     "images": [
       "images/carr1.jpg",
@@ -336,16 +353,16 @@
     ]
   },
   {
-    "name": "Kawasaki Ninja Moto a Escala 1:18 con Base Metal y PlÃÂ¡stico",
+    "name": "Kawasaki Ninja Moto a Escala 1:18 con Base Metal y PlÃÂÃÂ¡stico",
     "price": 400,
     "categories": [
       "Juguetes",
       "Auto y Moto"
     ],
     "description": [
-      "RÃÂ©plica fiel de la legendaria Kawasaki Ninja, con acabados precisos en metal y plÃÂ¡stico de alta calidad.",
+      "RÃÂÃÂ©plica fiel de la legendaria Kawasaki Ninja, con acabados precisos en metal y plÃÂÃÂ¡stico de alta calidad.",
       "Ideal para exhibir en vitrinas, escritorios o como regalo para amantes de las motos.",
-      "Base sÃÂ³lida con placa decorativa para mantener la moto estable y lucirla con estilo."
+      "Base sÃÂÃÂ³lida con placa decorativa para mantener la moto estable y lucirla con estilo."
     ],
     "images": [
       "images/moto1.jpg",
@@ -357,7 +374,7 @@
     ]
   },
   {
-    "name": "Pechera para CÃÂ¡mara y Celular",
+    "name": "Pechera para CÃÂÃÂ¡mara y Celular",
     "price": 480,
     "categories": [
       "Tecnologia y Juegos",
@@ -365,8 +382,8 @@
     ],
     "description": [
       "Captura tus recorridos en moto, bicicleta, caminatas o deportes con vista real desde el pecho.",
-      "Adaptadores incluidos para cÃÂ¡maras de acciÃÂ³n, GoPro y celulares de distintos tamaÃÂ±os.",
-      "ArnÃÂ©s elÃÂ¡stico, resistente y fÃÂ¡cil de colocar, pensado para grabaciones estables y sin movimiento."
+      "Adaptadores incluidos para cÃÂÃÂ¡maras de acciÃÂÃÂ³n, GoPro y celulares de distintos tamaÃÂÃÂ±os.",
+      "ArnÃÂÃÂ©s elÃÂÃÂ¡stico, resistente y fÃÂÃÂ¡cil de colocar, pensado para grabaciones estables y sin movimiento."
     ],
     "images": [
       "images/pechera1.jpg",
@@ -377,15 +394,15 @@
     ]
   },
   {
-    "name": "Lego de ConstrucciÃÂ³n de Accion Variedad",
+    "name": "Lego de ConstrucciÃÂÃÂ³n de Accion Variedad",
     "price": 400,
     "categories": [
       "Juguetes",
       "Accesorios Varios"
     ],
     "description": [
-      "Arma 6 modelos diferentes (carros, helicÃÂ³ptero y mÃÂ¡s) con las mismas piezas.",
-      "Despierta la imaginaciÃÂ³n: Ideal para niÃÂ±os y niÃÂ±as que aman construir y crear sus propias aventuras.",
+      "Arma 6 modelos diferentes (carros, helicÃÂÃÂ³ptero y mÃÂÃÂ¡s) con las mismas piezas.",
+      "Despierta la imaginaciÃÂÃÂ³n: Ideal para niÃÂÃÂ±os y niÃÂÃÂ±as que aman construir y crear sus propias aventuras.",
       "Material resistente y colores vibrantes: Compatible con bloques tipo Lego."
     ],
     "images": [
@@ -410,8 +427,8 @@
     ],
     "description": [
       "Orden inmediato, guarda ropa interior, calcetines y brasieres en compartimientos separados y visibles.",
-      "DiseÃÂ±o elegante y transpirable, hecho con tela resistente y malla ventilada para mantener todo limpio y fresco.",
-      "Ahorra espacio, ideal para cajones, closets o maletas Ã¢ÂÂ ÃÂ¡adiÃÂ³s al desorden y al estrÃÂ©s al buscar tu ropa!"
+      "DiseÃÂÃÂ±o elegante y transpirable, hecho con tela resistente y malla ventilada para mantener todo limpio y fresco.",
+      "Ahorra espacio, ideal para cajones, closets o maletas ÃÂ¢ÃÂÃÂ ÃÂÃÂ¡adiÃÂÃÂ³s al desorden y al estrÃÂÃÂ©s al buscar tu ropa!"
     ],
     "images": [
       "images/kit1.jpg",
@@ -427,8 +444,8 @@
     ],
     "description": [
       "Resistencia ajustable de 5 kg a 60 kg, ideal para todos los niveles: desde principiantes hasta atletas.",
-      "Contador integrado, registra automÃÂ¡ticamente cada repeticiÃÂ³n para medir tu progreso con precisiÃÂ³n.",
-      "DiseÃÂ±o ergonÃÂ³mico y antideslizante, cÃÂ³modo y duradero para entrenamiento diario en casa, oficina o gimnasio."
+      "Contador integrado, registra automÃÂÃÂ¡ticamente cada repeticiÃÂÃÂ³n para medir tu progreso con precisiÃÂÃÂ³n.",
+      "DiseÃÂÃÂ±o ergonÃÂÃÂ³mico y antideslizante, cÃÂÃÂ³modo y duradero para entrenamiento diario en casa, oficina o gimnasio."
     ],
     "images": [
       "images/handg1.jpg",
@@ -443,8 +460,8 @@
       "Joyeria"
     ],
     "description": [
-      "DiseÃÂ±o combinado blanco y negro, simboliza la conexiÃÂ³n y el equilibrio perfecto entre ambos.",
-      "Cuentas luminosas que brillan en la oscuridad, para que siempre estÃÂ©n conectados incluso a distancia.",
+      "DiseÃÂÃÂ±o combinado blanco y negro, simboliza la conexiÃÂÃÂ³n y el equilibrio perfecto entre ambos.",
+      "Cuentas luminosas que brillan en la oscuridad, para que siempre estÃÂÃÂ©n conectados incluso a distancia.",
       "Material ajustable y resistente, ideal para uso diario y como regalo significativo para tu pareja."
     ],
     "images": [
@@ -456,9 +473,9 @@
     "name": "Vitaminas Capsulas para Cabello Vitaminas A-C-E Restaura y Sana SELLADAS",
     "price": 280,
     "description": [
-      "FÃÂ³rmula enriquecida con Aceites Naturales (ArgÃÂ¡n, Macadamia y Aguacate) que hidratan profundamente y reducen el frizz.",
+      "FÃÂÃÂ³rmula enriquecida con Aceites Naturales (ArgÃÂÃÂ¡n, Macadamia y Aguacate) que hidratan profundamente y reducen el frizz.",
       "Contiene Vitaminas A, C, E y Pro-Vitamina B5, esenciales para fortalecer el cabello y estimular su crecimiento.",
-      "Repara el daÃÂ±o desde la raÃÂ­z hasta las puntas, dejando tu cabello suave, saludable y con brillo natural."
+      "Repara el daÃÂÃÂ±o desde la raÃÂÃÂ­z hasta las puntas, dejando tu cabello suave, saludable y con brillo natural."
     ],
     "images": [
       "images/vit1.jpg",
@@ -478,7 +495,7 @@
       "Bolsos y Carteras"
     ],
     "description": [
-      "DiseÃÂ±o sofisticado y femenino, con detalle de lazo desmontable que agrega un toque chic a cualquier look.",
+      "DiseÃÂÃÂ±o sofisticado y femenino, con detalle de lazo desmontable que agrega un toque chic a cualquier look.",
       "Amplio espacio interior, ideal para guardar celular, billetera, maquillaje y accesorios personales.",
       "Material resistente y liviano, con acabado acolchado y costuras de alta calidad para uso diario."
     ],
@@ -496,9 +513,9 @@
       "Auto y Moto"
     ],
     "description": [
-      "DiseÃÂ±o ÃÂºnico y llamativo Ã¢ÂÂ Convierte tu casco en el centro de atenciÃÂ³n con su estilo divertido y suave al tacto.",
-      "Material de alta calidad Ã¢ÂÂ Peluche grueso, resistente y cÃÂ³modo, no se deforma ni se pela con el uso.",
-      "FÃÂ¡cil de colocar y quitar Ã¢ÂÂ Se adapta a la mayorÃÂ­a de cascos sin afectar la visibilidad ni la ventilaciÃÂ³n."
+      "DiseÃÂÃÂ±o ÃÂÃÂºnico y llamativo ÃÂ¢ÃÂÃÂ Convierte tu casco en el centro de atenciÃÂÃÂ³n con su estilo divertido y suave al tacto.",
+      "Material de alta calidad ÃÂ¢ÃÂÃÂ Peluche grueso, resistente y cÃÂÃÂ³modo, no se deforma ni se pela con el uso.",
+      "FÃÂÃÂ¡cil de colocar y quitar ÃÂ¢ÃÂÃÂ Se adapta a la mayorÃÂÃÂ­a de cascos sin afectar la visibilidad ni la ventilaciÃÂÃÂ³n."
     ],
     "images": [
       "images/forror1.jpg",
@@ -514,9 +531,9 @@
       "Tecnologia y Juegos"
     ],
     "description": [
-      "Todo lo que necesitas en un solo kit Ã¢ÂÂ Incluye correas, soportes, trÃÂ­podes, flotador, ventosa, filtros y mÃÂ¡s para cualquier tipo de grabaciÃÂ³n.",
-      "ProtecciÃÂ³n total Ã¢ÂÂ Incluye vidrios templados para cuidar la lente y pantalla de tu cÃÂ¡mara en todo momento.",
-      "Ideal para acciÃÂ³n extrema Ã¢ÂÂ Perfecto para deportes, viajes, buceo, ciclismo o grabaciones profesionales."
+      "Todo lo que necesitas en un solo kit ÃÂ¢ÃÂÃÂ Incluye correas, soportes, trÃÂÃÂ­podes, flotador, ventosa, filtros y mÃÂÃÂ¡s para cualquier tipo de grabaciÃÂÃÂ³n.",
+      "ProtecciÃÂÃÂ³n total ÃÂ¢ÃÂÃÂ Incluye vidrios templados para cuidar la lente y pantalla de tu cÃÂÃÂ¡mara en todo momento.",
+      "Ideal para acciÃÂÃÂ³n extrema ÃÂ¢ÃÂÃÂ Perfecto para deportes, viajes, buceo, ciclismo o grabaciones profesionales."
     ],
     "images": [
       "images/kitggp1.jpg"
@@ -530,9 +547,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "Comodidad y discreciÃÂ³n total Ã¢ÂÂ Hechos de silicona suave, se adaptan perfectamente al cuerpo y no se marcan bajo la ropa.",
-      "Autoadhesivos y reutilizables Ã¢ÂÂ FÃÂ¡ciles de colocar, no se deslizan y pueden usarse varias veces sin perder adherencia.",
-      "DiseÃÂ±os elegantes Ã¢ÂÂ Incluye 2 figuras (redondo y flor) ideales para cualquier tipo de prenda o evento especial."
+      "Comodidad y discreciÃÂÃÂ³n total ÃÂ¢ÃÂÃÂ Hechos de silicona suave, se adaptan perfectamente al cuerpo y no se marcan bajo la ropa.",
+      "Autoadhesivos y reutilizables ÃÂ¢ÃÂÃÂ FÃÂÃÂ¡ciles de colocar, no se deslizan y pueden usarse varias veces sin perder adherencia.",
+      "DiseÃÂÃÂ±os elegantes ÃÂ¢ÃÂÃÂ Incluye 2 figuras (redondo y flor) ideales para cualquier tipo de prenda o evento especial."
     ],
     "images": [
       "images/pezz1.jpg",
@@ -542,16 +559,16 @@
     ]
   },
   {
-    "name": "GANGAÃ¢ÂÂ¼Ã¯Â¸ÂCobertor TPU Nintendo Switch V1/V2 CONTRA RAYONES",
+    "name": "GANGAÃÂ¢ÃÂÃÂ¼ÃÂ¯ÃÂ¸ÃÂCobertor TPU Nintendo Switch V1/V2 CONTRA RAYONES",
     "price": 180,
     "categories": [
       "Tecnologia y Juegos",
       "Accesorios Varios"
     ],
     "description": [
-      "ProtecciÃÂ³n total Ã¢ÂÂ A prueba de rayones, salpicaduras y suciedad. Ideal para mantener tu consola como nueva.",
-      "DiseÃÂ±o inteligente Ã¢ÂÂ Permite cargar sin quitar la funda y mantiene todos los puertos accesibles.",
-      "Material premium TPU Ã¢ÂÂ Flexible, resistente a impactos y con acabado brillante que realza el color original de tu Switch."
+      "ProtecciÃÂÃÂ³n total ÃÂ¢ÃÂÃÂ A prueba de rayones, salpicaduras y suciedad. Ideal para mantener tu consola como nueva.",
+      "DiseÃÂÃÂ±o inteligente ÃÂ¢ÃÂÃÂ Permite cargar sin quitar la funda y mantiene todos los puertos accesibles.",
+      "Material premium TPU ÃÂ¢ÃÂÃÂ Flexible, resistente a impactos y con acabado brillante que realza el color original de tu Switch."
     ],
     "images": [
       "images/tpuu1.jpg",
@@ -568,9 +585,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "ReacciÃÂ³n ultra rÃÂ¡pida Ã¢ÂÂ Mejora tu precisiÃÂ³n y evita resbalones gracias a su tejido conductivo sensible al tacto.",
-      "Comodidad total Ã¢ÂÂ Suaves, elÃÂ¡sticos y transpirables, ideales para largas sesiones de juego.",
-      "Aumenta tu rendimiento Ã¢ÂÂ Perfectos para Free Fire, PUBG, COD Mobile y mÃÂ¡s."
+      "ReacciÃÂÃÂ³n ultra rÃÂÃÂ¡pida ÃÂ¢ÃÂÃÂ Mejora tu precisiÃÂÃÂ³n y evita resbalones gracias a su tejido conductivo sensible al tacto.",
+      "Comodidad total ÃÂ¢ÃÂÃÂ Suaves, elÃÂÃÂ¡sticos y transpirables, ideales para largas sesiones de juego.",
+      "Aumenta tu rendimiento ÃÂ¢ÃÂÃÂ Perfectos para Free Fire, PUBG, COD Mobile y mÃÂÃÂ¡s."
     ],
     "images": [
       "images/dedall1.jpg",
@@ -587,9 +604,9 @@
       "Bolsos y Carteras"
     ],
     "description": [
-      "Ahorra espacio y mantÃÂ©n todo en orden Ã¢ÂÂ Separa tu ropa, calzado y accesorios fÃÂ¡cilmente para viajes sin estrÃÂ©s.",
-      "Material resistente y ligero Ã¢ÂÂ Fabricados con tela impermeable, ideales para proteger tus prendas.",
-      "Variedad de colores elegantes Ã¢ÂÂ Perfectos para identificar tus pertenencias y viajar con estilo."
+      "Ahorra espacio y mantÃÂÃÂ©n todo en orden ÃÂ¢ÃÂÃÂ Separa tu ropa, calzado y accesorios fÃÂÃÂ¡cilmente para viajes sin estrÃÂÃÂ©s.",
+      "Material resistente y ligero ÃÂ¢ÃÂÃÂ Fabricados con tela impermeable, ideales para proteger tus prendas.",
+      "Variedad de colores elegantes ÃÂ¢ÃÂÃÂ Perfectos para identificar tus pertenencias y viajar con estilo."
     ],
     "images": [
       "images/organnn1.jpg",
@@ -604,9 +621,9 @@
       "Bolsos y Carteras"
     ],
     "description": [
-      "Ideal para viajeros Ã¢ÂÂ TamaÃÂ±o compacto pero espacioso (26ÃÂ21ÃÂ9 cm) con mÃÂºltiples compartimentos y cierres de alta calidad.",
-      "DiseÃÂ±o funcional y resistente Ã¢ÂÂ Perfecto para guardar pasaporte, celular, cartera, llaves y documentos.",
-      "Uso versÃÂ¡til Ã¢ÂÂ Puedes llevarlo como bolso cruzado o al hombro, cÃÂ³modo para viajes, trabajo o uso diario."
+      "Ideal para viajeros ÃÂ¢ÃÂÃÂ TamaÃÂÃÂ±o compacto pero espacioso (26ÃÂÃÂ21ÃÂÃÂ9 cm) con mÃÂÃÂºltiples compartimentos y cierres de alta calidad.",
+      "DiseÃÂÃÂ±o funcional y resistente ÃÂ¢ÃÂÃÂ Perfecto para guardar pasaporte, celular, cartera, llaves y documentos.",
+      "Uso versÃÂÃÂ¡til ÃÂ¢ÃÂÃÂ Puedes llevarlo como bolso cruzado o al hombro, cÃÂÃÂ³modo para viajes, trabajo o uso diario."
     ],
     "images": [
       "images/bolmm1.jpg",
@@ -614,16 +631,16 @@
     ]
   },
   {
-    "name": "CamiÃÂ³n con 10 carros de Cuerda",
+    "name": "CamiÃÂÃÂ³n con 10 carros de Cuerda",
     "price": 500,
     "categories": [
       "Juguetes",
       "Accesorios Varios"
     ],
     "description": [
-      "Set completo Ã¢ÂÂ Incluye 1 camiÃÂ³n de transporte de 3 niveles y 10 carros plasticos de colores diseÃÂ±o deportivo y de cuerda veloces.",
-      "DiseÃÂ±o plegable y resistente Ã¢ÂÂ El camiÃÂ³n mide 28 cm, fabricado en plÃÂ¡stico duradero, ideal para niÃÂ±os curiosos y activos.",
-      "Regalo perfecto Ã¢ÂÂ Ideal para esta Navidad o cumpleaÃÂ±os, promueve la imaginaciÃÂ³n y el juego creativo."
+      "Set completo ÃÂ¢ÃÂÃÂ Incluye 1 camiÃÂÃÂ³n de transporte de 3 niveles y 10 carros plasticos de colores diseÃÂÃÂ±o deportivo y de cuerda veloces.",
+      "DiseÃÂÃÂ±o plegable y resistente ÃÂ¢ÃÂÃÂ El camiÃÂÃÂ³n mide 28 cm, fabricado en plÃÂÃÂ¡stico duradero, ideal para niÃÂÃÂ±os curiosos y activos.",
+      "Regalo perfecto ÃÂ¢ÃÂÃÂ Ideal para esta Navidad o cumpleaÃÂÃÂ±os, promueve la imaginaciÃÂÃÂ³n y el juego creativo."
     ],
     "images": [
       "images/camcar1.jpg",
@@ -631,16 +648,16 @@
     ]
   },
   {
-    "name": "AviÃÂ³n Pistola Lanzadora DinÃÂ¡mica",
+    "name": "AviÃÂÃÂ³n Pistola Lanzadora DinÃÂÃÂ¡mica",
     "price": 270,
     "categories": [
       "Juguetes",
       "Accesorios Varios"
     ],
     "description": [
-      "Lanzamiento potente y preciso Ã¢ÂÂ Solo apunta, aprieta el gatillo y mira cÃÂ³mo el aviÃÂ³n despega volando alto con fuerza.",
-      "Material liviano y seguro Ã¢ÂÂ Fabricado en espuma resistente, ideal para niÃÂ±os, sin riesgo de golpes ni daÃÂ±os.",
-      "Entretenimiento activo Ã¢ÂÂ Perfecto para jugar al aire libre, desarrollar coordinaciÃÂ³n y disfrutar en familia."
+      "Lanzamiento potente y preciso ÃÂ¢ÃÂÃÂ Solo apunta, aprieta el gatillo y mira cÃÂÃÂ³mo el aviÃÂÃÂ³n despega volando alto con fuerza.",
+      "Material liviano y seguro ÃÂ¢ÃÂÃÂ Fabricado en espuma resistente, ideal para niÃÂÃÂ±os, sin riesgo de golpes ni daÃÂÃÂ±os.",
+      "Entretenimiento activo ÃÂ¢ÃÂÃÂ Perfecto para jugar al aire libre, desarrollar coordinaciÃÂÃÂ³n y disfrutar en familia."
     ],
     "images": [
       "images/pistolvu1.jpg",
@@ -657,9 +674,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "Amplio y funcional: espacio ideal para tablet, documentos, billetera y mÃÂ¡s, perfecto para uso diario o viajes.",
-      "Material premium: fabricado con lona reforzada y cremalleras metÃÂ¡licas duraderas.",
-      "Estilo moderno y cÃÂ³modo: correa ajustable, diseÃÂ±o elegante y bolsillos organizadores que te mantienen siempre preparado."
+      "Amplio y funcional: espacio ideal para tablet, documentos, billetera y mÃÂÃÂ¡s, perfecto para uso diario o viajes.",
+      "Material premium: fabricado con lona reforzada y cremalleras metÃÂÃÂ¡licas duraderas.",
+      "Estilo moderno y cÃÂÃÂ³modo: correa ajustable, diseÃÂÃÂ±o elegante y bolsillos organizadores que te mantienen siempre preparado."
     ],
     "images": [
       "images/bolpp1.jpg",
@@ -674,9 +691,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "Vista perfecta en todo momento: su rotaciÃÂ³n de 360ÃÂ° te permite ajustar el ÃÂ¡ngulo ideal sin bloquear tu visiÃÂ³n al conducir.",
-      "Agarre firme y seguro: sistema de sujeciÃÂ³n estable para mantener tu celular fijo incluso en caminos irregulares.",
-      "InstalaciÃÂ³n fÃÂ¡cil y adaptable: se ajusta a la mayorÃÂ­a de retrovisores, ideal para GPS, videollamadas o grabaciones."
+      "Vista perfecta en todo momento: su rotaciÃÂÃÂ³n de 360ÃÂÃÂ° te permite ajustar el ÃÂÃÂ¡ngulo ideal sin bloquear tu visiÃÂÃÂ³n al conducir.",
+      "Agarre firme y seguro: sistema de sujeciÃÂÃÂ³n estable para mantener tu celular fijo incluso en caminos irregulares.",
+      "InstalaciÃÂÃÂ³n fÃÂÃÂ¡cil y adaptable: se ajusta a la mayorÃÂÃÂ­a de retrovisores, ideal para GPS, videollamadas o grabaciones."
     ],
     "images": [
       "images/carra1.jpg",
@@ -692,9 +709,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "Ã°ÂÂ§Â´Ã°ÂÂÂ§ Limpieza suave y efectiva con CeraVe Hydrating Facial CleanserÃ¢ÂÂideal para piel normal a seca y respetuoso con la barrera de tu piel.",
-      "Ã°ÂÂÂ¿Ã¢ÂÂ¨ FÃÂ³rmula con ceramidas y ÃÂ¡cido hialurÃÂ³nico que deja tu piel fresca, hidratada y con sensaciÃÂ³n de confort todo el dÃÂ­a.",
-      "Ã°ÂÂÂ¦Ã°ÂÂÂ­Ã°ÂÂÂ³ Producto ORIGINAL y de calidad dermatolÃÂ³gicaÃ¢ÂÂÃÂ¡envÃÂ­os a TODO Honduras para que tu piel reciba el mejor cuidado!"
+      "ÃÂ°ÃÂÃÂ§ÃÂ´ÃÂ°ÃÂÃÂÃÂ§ Limpieza suave y efectiva con CeraVe Hydrating Facial CleanserÃÂ¢ÃÂÃÂideal para piel normal a seca y respetuoso con la barrera de tu piel.",
+      "ÃÂ°ÃÂÃÂÃÂ¿ÃÂ¢ÃÂÃÂ¨ FÃÂÃÂ³rmula con ceramidas y ÃÂÃÂ¡cido hialurÃÂÃÂ³nico que deja tu piel fresca, hidratada y con sensaciÃÂÃÂ³n de confort todo el dÃÂÃÂ­a.",
+      "ÃÂ°ÃÂÃÂÃÂ¦ÃÂ°ÃÂÃÂÃÂ­ÃÂ°ÃÂÃÂÃÂ³ Producto ORIGINAL y de calidad dermatolÃÂÃÂ³gicaÃÂ¢ÃÂÃÂÃÂÃÂ¡envÃÂÃÂ­os a TODO Honduras para que tu piel reciba el mejor cuidado!"
     ],
     "images": [
       "images/crr1.jpg",
@@ -710,9 +727,9 @@
       "Accesorios Varios"
     ],
     "description": [
-      "Ã°ÂÂÂ¸Ã°ÂÂÂ¥ Graba tus rutas como un PRO con este soporte de cÃÂ¡mara y celular para casco: firme, seguro y listo para cualquier aventura.",
-      "Ã°ÂÂÂÃ¯Â¸ÂÃ°ÂÂÂ¨ ObtÃÂ©n ÃÂ¡ngulos sÃÂºper estables sin vibraciones y captura todo tu recorrido con calidad brutal.",
-      "Ã°ÂÂÂªÃ°ÂÂÂ± DiseÃÂ±o ajustable, cÃÂ³modo y compatible con GoPro y celularesÃ¢ÂÂÃÂ¡la herramienta perfecta para motovloggers, bikers y amantes de la adrenalina!"
+      "ÃÂ°ÃÂÃÂÃÂ¸ÃÂ°ÃÂÃÂÃÂ¥ Graba tus rutas como un PRO con este soporte de cÃÂÃÂ¡mara y celular para casco: firme, seguro y listo para cualquier aventura.",
+      "ÃÂ°ÃÂÃÂÃÂÃÂ¯ÃÂ¸ÃÂÃÂ°ÃÂÃÂÃÂ¨ ObtÃÂÃÂ©n ÃÂÃÂ¡ngulos sÃÂÃÂºper estables sin vibraciones y captura todo tu recorrido con calidad brutal.",
+      "ÃÂ°ÃÂÃÂÃÂªÃÂ°ÃÂÃÂÃÂ± DiseÃÂÃÂ±o ajustable, cÃÂÃÂ³modo y compatible con GoPro y celularesÃÂ¢ÃÂÃÂÃÂÃÂ¡la herramienta perfecta para motovloggers, bikers y amantes de la adrenalina!"
     ],
     "images": [
       "images/sop1.jpg"
